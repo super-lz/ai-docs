@@ -12,3 +12,7 @@ Leazer AI 是一个持续整理的 AI 开发资料索引，按开发方向收录
 ## License
 
 [MIT](LICENSE)
+
+## 贡献
+
+参见 [贡献指南](CONTRIBUTING.md)。
