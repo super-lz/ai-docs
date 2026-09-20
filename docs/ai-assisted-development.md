@@ -25,3 +25,9 @@ Emil Kowalski 整理的 UI 设计与动效 Skills，覆盖界面设计、Web 与
 用于 Agent Skills 的静态检查工具，可校验 `SKILL.md`、YAML frontmatter、命名、目录结构和相对路径，适合接入 CI 或 pre-commit。
 
 - https://pub.dev/packages/skills_lint
+
+## 腾讯云 CloudBase
+
+腾讯云提供的 Serverless 应用开发平台，适合为 AI 应用快速接入数据库、对象存储、云函数、托管与鉴权等后端能力。
+
+- https://tcb.cloud.tencent.com/
